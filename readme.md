@@ -1,14 +1,23 @@
 === WP Discord Invite ===
+
 Contributors: sarveshmrao
+
 Donate link: https://sarveshmrao.in
+
 Tags: Discord, invite, link, vanity, URL, Discord Invite Links, Vanity URL
+
 Requires at least: 5.2
+
 Tested up to: 5.6
+
 Requires PHP: 7.2
+
 License: GPLv2 or later
+
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 Create a vanity URL to your Discord Server in your WP Domain.
+
 
 == Description ==
 
@@ -33,6 +42,7 @@ The word Discord and it's respective logo's are registered trademarks of Discord
 
 
 Logo crafted with love by [Dawn Saju](http://dawn-s-portfolio.firebaseapp.com/)
+
 == Frequently Asked Questions ==
 
 = How is this plugin useful to me? =
